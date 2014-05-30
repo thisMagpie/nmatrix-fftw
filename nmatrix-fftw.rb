@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.summary                        = 'Ruby FFTW3 wrapper for performing FFT operations on NMatrix objects.'
   gem.required_rubygems_version      = Gem::Requirement.new(">= 2.2.2")
   gem.authors                        = ['Magdalen Berns']
-  gem.email = 'm.berns@thismagpie.com'
+  gem.email                          = 'm.berns@thismagpie.com'
   gem.post_install_message = <<-EOF
   ***********************************************************
   Welcome to SciRuby: Tools for Scientific Computing in Ruby!
