@@ -1,6 +1,6 @@
 require 'mkmf'
 
-module NMatrix_FFTW
+module NMatrixFFTW
 end
 
 create_makefile('nmatrix-fftw')
