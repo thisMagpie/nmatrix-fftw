@@ -3,6 +3,13 @@ require 'rake'
 require 'rspec'
 require 'rubygems'
 require 'bundler'
+
+RSpec::Core::RakeTask.new(:spec) do |t|
+  t.fail_on_error = false
+end
+
+task :default => :spec
+
 $sourcedir = File.dirname(__FILE__)
 
 task :console do
