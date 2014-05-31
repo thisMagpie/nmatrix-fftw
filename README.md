@@ -1,7 +1,7 @@
 nmatrix-fftw
 ============
 
-{<img src=https://travis-ci.org/thisMagpie/nmatrix-fftw.png>}[https://travis-ci.org/ThisMagpie/nmatrix-fftw]
+(https://travis-ci.org/thisMagpie/nmatrix-fftw.png "[Travis Build](https://travis-ci.org/ThisMagpie/nmatrix-fftw)")
 
 Ruby FFTW3 wrapper for performing FFT operations on NMatrix objects
 
