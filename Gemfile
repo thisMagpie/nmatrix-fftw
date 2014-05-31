@@ -5,3 +5,4 @@ gem 'nmatrix', :git => "git://github.com/SciRuby/nmatrix.git", :branch => 'maste
 gem 'rake'
 gem 'rake-compiler', '~>0.8.1'
 gem 'rdoc', '~>4.1.1'
+gem 'rspec-longrun', '~> 1.0.1'
